@@ -5,16 +5,16 @@ Nada é facil nessa vida, mas tude se descomplica quando se tem força e determi
 <h2> Bom Dia</h2>
     <li> Estudante de Ciências da Computação.</li>
     <li> Artista Tradicional, Digital e Animador Pixelart.</li>
+    <li> Artista Digital.</li>
+    <li> Animador PixelArt.</li>
+    <li> GameDev Iniciante.</li>
+    <li> Sei Python.</li>
+    <li>
     <li> Bronze no Street Fighter V.</li>
-    <li>
-    <li>
-    <li>
-    <li>
-    <li>
 
 <h2> Minhas Redes</h2>
 <img align="right" src=./walk.gif alt="teste" width=25% height=25%/>
-    <li><a href="https://twitter.com/paginnini">Twitter</a>.</li>
-    <li><a href="https://www.instagram.com/paginnini/">Instagram</a>.</li>
-    <li><a href="https://www.twitch.tv/paginnini">Twitch</a>.</li>
+    <li><a href="https://twitter.com/paginnini">Twitter</a></li>
+    <li><a href="https://www.instagram.com/paginnini/">Instagram</a></li>
+    <li><a href="https://www.twitch.tv/paginnini">Twitch</a></li>
 <img align="right" src=./favoritos.jfif alt="SE VOCE N CONCORDA SAI FORA" width=50% height=50%/>
