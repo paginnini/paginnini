@@ -24,4 +24,4 @@ Nada é facil nessa vida, mas tude se descomplica quando se tem força e determi
     <li>
     <li>
 </ul>
-<img align="left" src=./favoritos.jfif alt="SE VOCE N CONCORDA SAI FORA" width=50% height=50%/>
+<img align="left" src=./favoritos.jfif alt="SE VOCE N CONCORDA SAI FORA" width=60% height=60%/>
