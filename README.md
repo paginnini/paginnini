@@ -20,5 +20,8 @@ Nada é facil nessa vida, mas tude se descomplica quando se tem força e determi
     <li><a href="https://www.twitch.tv/paginnini">Twitch</a></li>
     <li>
     <li>
+    <li>
+    <li>
+    <li>
 </ul>
 <img align="left" src=./favoritos.jfif alt="SE VOCE N CONCORDA SAI FORA" width=50% height=50%/>
