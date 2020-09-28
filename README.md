@@ -12,7 +12,9 @@ Nada é facil nessa vida, mas tude se descomplica quando se tem força e determi
     <li>
     <li>
 
-<h2> Teste</h2>
+<h2> Minhas Redes</h2>
 <img align="right" src=./walk.gif alt="teste" width=25% height=25%/>
-<li>Confira minhas <a href="https://linktr.ee/paginnini">redes</a>.</li>
+    <li><a href="https://twitter.com/paginnini">Twitter</a>.</li>
+    <li><a href="https://www.instagram.com/paginnini/">Instagram</a>.</li>
+    <li><a href="https://www.twitch.tv/paginnini">Twitch</a>.</li>
 <img align="right" src=./favoritos.jfif alt="SE VOCE N CONCORDA SAI FORA" width=50% height=50%/>
