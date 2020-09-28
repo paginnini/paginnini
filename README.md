@@ -17,4 +17,7 @@ Nada é facil nessa vida, mas tude se descomplica quando se tem força e determi
     <li><a href="https://twitter.com/paginnini">Twitter</a></li>
     <li><a href="https://www.instagram.com/paginnini/">Instagram</a></li>
     <li><a href="https://www.twitch.tv/paginnini">Twitch</a></li>
+    <li>
+    <li>
+    <li>
 <img align="left" src=./favoritos.jfif alt="SE VOCE N CONCORDA SAI FORA" width=50% height=50%/>
