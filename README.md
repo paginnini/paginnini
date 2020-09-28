@@ -18,6 +18,7 @@ Nada é facil nessa vida, mas tude se descomplica quando se tem força e determi
     <li><a href="https://twitter.com/paginnini">Twitter</a></li>
     <li><a href="https://www.instagram.com/paginnini/">Instagram</a></li>
     <li><a href="https://www.twitch.tv/paginnini">Twitch</a></li>
+    <li>Quer saber de alguma outra rede? pesquise por paginnini provavelmente serei eu.
 </ul>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=paginnini&show_icons=true&hide_border=true" alt="Tadeu's Github Stats">
 
