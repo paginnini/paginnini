@@ -5,8 +5,8 @@ Nada é facil nessa vida, mas tude se descomplica quando se tem força e determi
 <h2> Bom Dia</h2>
 estudante de ciências da computação, artista e bronze no street fighter v
     <li> Estudante de Ciências da Computação.</li>
-    <li> Artista Tradicional, Digital e Animador Pixelart.<li>
-    <li> Bronze no Street Fighter V.<li>
+    <li> Artista Tradicional, Digital e Animador Pixelart.</li>
+    <li> Bronze no Street Fighter V.</li>
 
 
 <img align="right" src=./walk.gif alt="teste" width=25% height=25%/>
