@@ -19,6 +19,7 @@ Nada é facil nessa vida, mas tude se descomplica quando se tem força e determi
     <li><a href="https://www.instagram.com/paginnini/">Instagram</a></li>
     <li><a href="https://www.twitch.tv/paginnini">Twitch</a></li>
 </ul>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=paginnini&show_icons=true&hide_border=true" alt="Tadeu's Github Stats">
+
 <img align="left" src=./favoritos.jfif alt="SE VOCE N CONCORDA SAI FORA" width=60% height=60%/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=paginnini&show_icons=true&hide_border=true" alt="Tadeu's Github Stats">
