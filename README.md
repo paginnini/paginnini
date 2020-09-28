@@ -4,7 +4,7 @@ Nada é facil nessa vida, mas tude se descomplica quando se tem força e determi
 <img align="left" src=./4b8274cdd4bb64b7ec094cd5c3d7d306.gif alt="teste" width=30% height=30%/>
 <h2> Bom Dia</h2>
     <li> Estudante de Ciências da Computação.</li>
-    <li> Artista Tradicional, Digital e Animador Pixelart.</li>
+    <li> Artista Tradicional.</li>
     <li> Artista Digital.</li>
     <li> Animador PixelArt.</li>
     <li> GameDev Iniciante.</li>
