@@ -20,11 +20,6 @@
     <li><a href="https://www.twitch.tv/paginnini">Twitch</a></li>
     <li>Quer saber de alguma outra rede? Pesquise por paginnini provavelmente serei eu.</li>
 </ul>
+<h3>Quer comprar um desenho meu?</h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=paginnini&show_icons=true&hide_border=true" alt="Tadeu's Github Stats">
-
-
-
-<div style="position: fixed; bottom: 0;">
-<img align="left" src=./favoritos.jfif alt="SE VOCE N CONCORDA SAI FORA" width=60% height=60%/>
-<h6>teste</h6>
-</div>
+<img align="bottom" src=./favoritos.jfif alt="SE VOCE N CONCORDA SAI FORA" width=60% height=60%/>
