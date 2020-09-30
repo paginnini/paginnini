@@ -20,9 +20,8 @@ Nada é facil nessa vida, mas tude se descomplica quando se tem força e determi
     <li><a href="https://www.twitch.tv/paginnini">Twitch</a></li>
     <li>Quer saber de alguma outra rede? Pesquise por paginnini provavelmente serei eu.</li>
 </ul>
-<ul>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=paginnini&show_icons=true&hide_border=true" alt="Tadeu's Github Stats">
-</ul>
-<h3>teste</h3>
+<hr>
+<h2>teste</h2>
 <img align="left" src=./favoritos.jfif alt="SE VOCE N CONCORDA SAI FORA" width=60% height=60%/>
 
