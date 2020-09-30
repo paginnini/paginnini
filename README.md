@@ -14,12 +14,13 @@
 
 <h2> Minhas Redes</h2>
 <img align="right" src=./walk.gif alt="teste" width=25% height=25%/>
+<h3>Quer comprar um desenho meu? Entre em contato!</h3>
 <ul>
     <li><a href="https://twitter.com/paginnini">Twitter</a></li>
     <li><a href="https://www.instagram.com/paginnini/">Instagram</a></li>
     <li><a href="https://www.twitch.tv/paginnini">Twitch</a></li>
     <li>Quer saber de alguma outra rede? Pesquise por paginnini provavelmente serei eu.</li>
 </ul>
-<h3>Quer comprar um desenho meu?</h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=paginnini&show_icons=true&hide_border=true" alt="Tadeu's Github Stats">
+
 <img align="bottom" src=./favoritos.jfif alt="SE VOCE N CONCORDA SAI FORA" width=60% height=60%/>
