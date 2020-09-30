@@ -1,4 +1,4 @@
-<h2> Algumas informações rápidas</h2>
+<h1> Algumas informações rápidas</h1>
 
 <h6>Nada é facil nessa vida, mas tude se descomplica quando se tem força e determinação. BOA NOITE!!</h6>
 <img align="left" src=./4b8274cdd4bb64b7ec094cd5c3d7d306.gif alt="teste" width=30% height=30%/>
