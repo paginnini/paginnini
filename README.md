@@ -21,7 +21,7 @@ Nada é facil nessa vida, mas tude se descomplica quando se tem força e determi
     <li>Quer saber de alguma outra rede? Pesquise por paginnini provavelmente serei eu.</li>
 </ul>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=paginnini&show_icons=true&hide_border=true" alt="Tadeu's Github Stats">
-<hr>
+<p>
 <h2>teste</h2>
 <img align="left" src=./favoritos.jfif alt="SE VOCE N CONCORDA SAI FORA" width=60% height=60%/>
-
+</p>
